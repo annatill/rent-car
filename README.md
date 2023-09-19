@@ -19,18 +19,6 @@ locations.
    git clone https://github.com/annatill/rent-car.git
    ```
 
-Certainly! Here's the README.md file in English for your car rental application:
-
-markdown Copy code
-
-# RentCar - Car Rental Application
-
-![Example screenshot of your application](screenshot.png)
-
-RentCar is a web application that provides a convenient platform for car
-rentals. Our application allows users to search, book, and rent cars in multiple
-locations.
-
 ## Links
 
 - [Demo Application](https://annatill.github.io/rent-car/)
